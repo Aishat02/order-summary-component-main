@@ -13,7 +13,6 @@ body {
   align-items: center;
   justify-content: center;
   text-align: center;
-  overflow: hidden;
   background-color: var(--Paleblue);
   background-image: url("../order-summary-component-main/images/pattern-background-mobile.svg");
   background-repeat: no-repeat;
@@ -21,7 +20,7 @@ body {
 }
 .container {
   border-radius: 20px;
-  width: 350px;
+  width: 310px;
   box-shadow: 0 6px 10px -5px var(--Desaturatedblue);
   background-color: white;
 }
@@ -89,7 +88,7 @@ button {
     background-size: 100%;
   }
   .container {
-    width: 400px;
+    width: 380px;
   }
   .link {
     margin-left: 3.5em;
